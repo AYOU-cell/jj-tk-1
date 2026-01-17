@@ -173,7 +173,7 @@ export function CooperationModels() {
         {/* WhatsApp Button */}
         <div className="mt-10">
           <a
-            href="https://wa.me/12052279846"
+            href="https://wa.me/18105371355"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-3 bg-[#25D366] hover:bg-[#20BA5A] text-white py-4 px-6 rounded-2xl shadow-lg transition-all duration-200 hover:shadow-xl active:scale-95"
