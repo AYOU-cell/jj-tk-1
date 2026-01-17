@@ -21,7 +21,7 @@ export function FixedWhatsAppBar() {
         
         {/* WhatsApp CTA Button */}
         <a
-          href="https://wa.me/12052279846"
+          href="https://wa.me/18105371355"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-3 bg-[#25D366] hover:bg-[#20BA5A] text-white py-3 px-6 rounded-xl shadow-md transition-all duration-200 hover:shadow-lg active:scale-95 mt-3"
